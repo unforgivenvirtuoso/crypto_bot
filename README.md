@@ -1,6 +1,6 @@
 # crypto_bot
 
-DISCLAIMER: just for educational purposes if you use this in the hopes of making money you are stupid and i am not liable 
+DISCLAIMER: just for educational purposes if you use this in the hopes of making money you are stupid and i am not liable xd
 
 bot that trades crypto on binance 
 
