@@ -1,4 +1,7 @@
 # crypto_bot
+
+DISCLAIMER: just for educational purposes if you use this in the hopes of making money you are stupid and i am not liable 
+
 bot that trades crypto on binance 
 
 will test this spaghetti code soon and see how good it is 
