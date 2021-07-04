@@ -8,7 +8,7 @@ will test this spaghetti code soon and see how good it is
 
 god i want to break free from this amoral corporate world :((
 
-If this had helped you break the shackles of capitalism please consider donating to Palestinians in need
+If this has helped you break the shackles of capitalism please consider donating to Palestinians in need
 
 https://www.interpal.org/
 
